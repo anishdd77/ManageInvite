@@ -1,5 +1,5 @@
 module.exports = {
-    token:          "NjY2NzYxMjEzMjkxNTI4MjEz.Xm4m5w.VDbguZMXEL990kEe_At7pBgf8PY",
+    token:          "NjY2NzYxMjEzMjkxNTI4MjEz.Xm4seg.QiWFGymZJbEWdCVQZezI6_FCPlQ",
     shardCount:     2,
     /* Emojis */
     emojis: {
@@ -32,5 +32,5 @@ module.exports = {
     prefix:         "+",
     owners: [ "611568839981006850", "XXXXXXXXXXX" ],
     /* Top.gg */
-    topToken: "NjY2NzYxMjEzMjkxNTI4MjEz.Xm4m5w.VDbguZMXEL990kEe_At7pBgf8PY"
+    topToken: "NjY2NzYxMjEzMjkxNTI4MjEz.Xm4seg.QiWFGymZJbEWdCVQZezI6_FCPlQ"
 };
