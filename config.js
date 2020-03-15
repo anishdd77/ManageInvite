@@ -30,7 +30,7 @@ module.exports = {
     mongodb:        "XXXXXXXXXXX",
     discord:        "XXXXXXXXXXX",
     prefix:         "+",
-    owners: [ "XXXXXXXXXXX", "XXXXXXXXXXX" ],
+    owners: [ "611568839981006850", "XXXXXXXXXXX" ],
     /* Top.gg */
     topToken: "NjY2NzYxMjEzMjkxNTI4MjEz.Xm4m5w.VDbguZMXEL990kEe_At7pBgf8PY"
 };
